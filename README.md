@@ -1,6 +1,6 @@
 # How to Use F2CS Planner (FFCS-Planner)
 
-A detailed walkthrough for using the FFCS-Planner application (F2CS-Planner) for VIT-Vellore, VIT-Chennai, and VIT AP campuses. This guide helps you plan your academic semester effectively using the tool's features and functionalities
+A detailed walkthrough for using the [F2CS-Planner](https://f2cs.aneezhussain.com) application (FFCS Planner) for VIT-Vellore, VIT-Chennai, and VIT AP campuses. This guide helps you plan your academic semester effectively using the tool's features and functionalities [how-to-use-guide](https://www.aneezhussain.com/how-to-use-f2cs-planner/)
 
 ## Features
 
