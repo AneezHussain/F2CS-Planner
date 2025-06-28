@@ -1,5 +1,5 @@
 # F2CS-Planner
-Of course! Here is the detailed guide to the FFCS-Planner application in a clear and organized Markdown format.
+Here is the detailed guide to the FFCS-Planner application in a clear and organized Markdown format.
 
 ---
 
